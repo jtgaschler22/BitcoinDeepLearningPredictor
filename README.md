@@ -1,1 +1,1 @@
-# BitcoinDeepLearningPredictor
+# SPY Deep Learning Predictor
